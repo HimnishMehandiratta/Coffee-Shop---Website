@@ -1,7 +1,7 @@
 # IvyCafe
 <img src="img/IvyCafee.png" alt="">
 
-### Demo : https://yoghantara08.github.io/TaraCafe/
+### Demo : https://github.com/HimnishMehandiratta/Coffee-Shop---Website
 
 ### 🛠️ | Languages and Tools
 - HTML
